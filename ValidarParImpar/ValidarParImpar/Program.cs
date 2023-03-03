@@ -2,7 +2,7 @@
 
 namespace ValidarParImpar
 {
-    public class Program
+    public class ValidarParImpar
     {
         static void Main(string[] args)
         {
